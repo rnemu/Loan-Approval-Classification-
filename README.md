@@ -6,7 +6,7 @@ The dataset used for analysis is loandata.json, which is located in the **Data**
 ## Tasks
 All the tasks are mentioned in **Questions.docx** file.
 1. **Percentage of Total Applicants for Each Unique Value of Dependents**
-Calculate the percentage of total applicants for each unique value of the Dependents feature.
+   Calculate the percentage of total applicants for each unique value of the Dependents feature.
 
 # 2. Percentage of Applications Approved for Self-Employed Applicants
 Determine the percentage of loan applications approved for self-employed applicants.
