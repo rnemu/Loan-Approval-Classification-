@@ -33,8 +33,8 @@ Find the approval ratio for the following combinations of Property_Area and Mari
 7. Predictive Model for Loan Approval
 A logistic regression model has been created to predict loan approval. The model achieved an accuracy score of 88%.
 ## Instructions
-1. Download the loandata.json file located in the data directory.
-2. Open LoanApprovalClassificationusingML.ipynb in Jupyter Notebook.
+1. Download the ** loandata.json** file located in the data directory.
+2. Open **LoanApprovalClassificationusingML.ipynb** in Jupyter Notebook.
 3. Execute the cells in the notebook to perform the analysis and model training.
 ## Requirements
 - Python 3.x
