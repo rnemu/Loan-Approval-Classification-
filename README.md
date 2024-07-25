@@ -47,7 +47,3 @@ A logistic regression model has been created to predict loan approval. The model
 ```bash
     pip install pandas numpy scikit-learn matplotlib seaborn
     
-
-
-## Contact
-For any questions or issues, please contact rakeshnemu237@gmail.com.
