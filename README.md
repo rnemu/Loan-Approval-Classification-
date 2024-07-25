@@ -23,31 +23,31 @@ All the tasks are mentioned in **Questions.docx** file.
 5. **Average Number of Dependents per Income Group**
 
    Compute the average number of dependents for different income groups.
-
-# 6. Approval Ratio for Various Combinations of Property_Area and Marital Status
+6. **Approval Ratio for Various Combinations of Property_Area and Marital Status**
 Find the approval ratio for the following combinations of Property_Area and Marital Status:
 
 - Rural, Married
 - Rural, Unmarried
 - Urban, Married
 - Urban, Unmarried
-# 7. Predictive Model for Loan Approval
+7. Predictive Model for Loan Approval
 A logistic regression model has been created to predict loan approval. The model achieved an accuracy score of 88%.
-# Instructions
+## Instructions
 1. Download the loandata.json file located in the data directory.
 2. Open LoanApprovalClassificationusingML.ipynb in Jupyter Notebook.
 3. Execute the cells in the notebook to perform the analysis and model training.
-# Requirements
+## Requirements
 - Python 3.x
 - pandas
 - numpy
 - scikit-learn
 - matplotlib
 - seaborn
-#Install the required packages using:
+## Install the required packages using:
 ```bash
     pip install pandas numpy scikit-learn matplotlib seaborn
-    ```
+    
 
-# Contact
+
+## Contact
 For any questions or issues, please contact rakeshnemu237@gmail.com.
