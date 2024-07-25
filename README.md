@@ -9,25 +9,29 @@ All the tasks are mentioned in **Questions.docx** file.
 
    Calculate the percentage of total applicants for each unique value of the Dependents feature.
 
-# 2. Percentage of Applications Approved for Self-Employed Applicants
-Determine the percentage of loan applications approved for self-employed applicants.
+2. **Percentage of Applications Approved for Self-Employed Applicants**
 
-# 3. Percentage of Rejections for Married Male Applicants
-Calculate the percentage of loan rejections for married male applicants.
+   Determine the percentage of loan applications approved for self-employed applicants.
 
-# 4. Property Area with the Maximum Approval Ratio
-Identify which Property_Area has the highest loan approval ratio.
+3. **Percentage of Rejections for Married Male Applicants**
 
-# 5. Average Number of Dependents per Income Group
-Compute the average number of dependents for different income groups.
+   Calculate the percentage of loan rejections for married male applicants
+
+   4. **Property Area with the Maximum Approval Ratio**
+     
+   Identify which Property_Area has the highest loan approval ratio.
+
+5. **Average Number of Dependents per Income Group**
+
+   Compute the average number of dependents for different income groups.
 
 # 6. Approval Ratio for Various Combinations of Property_Area and Marital Status
 Find the approval ratio for the following combinations of Property_Area and Marital Status:
 
-Rural, Married
-Rural, Unmarried
-Urban, Married
-Urban, Unmarried
+- Rural, Married
+- Rural, Unmarried
+- Urban, Married
+- Urban, Unmarried
 # 7. Predictive Model for Loan Approval
 A logistic regression model has been created to predict loan approval. The model achieved an accuracy score of 88%.
 # Instructions
