@@ -5,7 +5,7 @@ This repository contains a Jupyter Notebook, LoanApprovalClassificationusingML.i
 The dataset used for analysis is loandata.json, which is located in the **Data** directory. It includes various features about loan applicants and their approval status.
 ## Tasks
 All the tasks are mentioned in **Questions.docx** file.
-1. ** Percentage of Total Applicants for Each Unique Value of Dependents**
+1. **Percentage of Total Applicants for Each Unique Value of Dependents**
 Calculate the percentage of total applicants for each unique value of the Dependents feature.
 
 # 2. Percentage of Applications Approved for Self-Employed Applicants
