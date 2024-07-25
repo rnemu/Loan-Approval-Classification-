@@ -16,8 +16,7 @@ All the tasks are mentioned in **Questions.docx** file.
 3. **Percentage of Rejections for Married Male Applicants**
 
    Calculate the percentage of loan rejections for married male applicants
-
-   4. **Property Area with the Maximum Approval Ratio**
+4. **Property Area with the Maximum Approval Ratio**
      
    Identify which Property_Area has the highest loan approval ratio.
 
@@ -39,13 +38,16 @@ A logistic regression model has been created to predict loan approval. The model
 2. Open LoanApprovalClassificationusingML.ipynb in Jupyter Notebook.
 3. Execute the cells in the notebook to perform the analysis and model training.
 # Requirements
-Python 3.x
-pandas
-numpy
-scikit-learn
-matplotlib
-seaborn
-Install the required packages using:
-pip install pandas numpy scikit-learn matplotlib seaborn
+- Python 3.x
+- pandas
+- numpy
+- scikit-learn
+- matplotlib
+- seaborn
+#Install the required packages using:
+```bash
+    pip install pandas numpy scikit-learn matplotlib seaborn
+    ```
+
 # Contact
-For any questions or issues, please contact [Your Email].
+For any questions or issues, please contact rakeshnemu237@gmail.com.
